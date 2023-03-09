@@ -62,6 +62,7 @@ list_of_classmates = [Laszlo, Victoria, Pola, Katrina]
 print(print_class_list(list_of_classmates))
 
 list_of_classmates = sorted(list_of_classmates)
-print(print_class_list(list_of_classmates))
+#print(print_class_list(list_of_classmates))
 
-print(Victoria.partner.first_name)
+
+#print(Victoria.partner.first_name)
